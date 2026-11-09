@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="490" viewBox="0 0 1120 490" role="img" aria-label="Private Git development activity from October to November 2026, 4266 unique commits over 26 active days">
+<rect x="0" y="0" width="1120" height="490" rx="0" fill="#101824"/>
+<text x="48" y="52" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#70ddbc">DEVELOPMENT ACTIVITY</text>
+<text x="48" y="111" font-size="58" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">4,266</text>
+<text x="247" y="109" font-size="25" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#b5c1d0">unique commits</text>
+<text x="48" y="145" font-size="17" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#8fa0b4">Oct 8 – Nov 7, 2026  ·  26 active days  ·  AI-assisted development</text>
+<text x="48" y="198" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#eaf1fa">Daily commit activity</text>
+<rect x="48" y="337" width="23" height="48" rx="4" fill="#42cba8"/>
+<text x="48" y="410" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#9aa9ba">Oct 08</text>
+<rect x="81" y="348" width="23" height="37" rx="4" fill="#42cba8"/>
+<rect x="114" y="343" width="23" height="42" rx="4" fill="#42cba8"/>
+<rect x="147" y="304" width="23" height="81" rx="4" fill="#42cba8"/>
+<rect x="180" y="236" width="23" height="149" rx="4" fill="#42cba8"/>
+<rect x="213" y="233" width="23" height="152" rx="4" fill="#42cba8"/>
+<rect x="246" y="244" width="23" height="141" rx="4" fill="#42cba8"/>
+<rect x="279" y="316" width="23" height="69" rx="4" fill="#42cba8"/>
+<text x="279" y="410" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#9aa9ba">Oct 15</text>
+<rect x="312" y="373" width="23" height="12" rx="4" fill="#42cba8"/>
+<rect x="345" y="365" width="23" height="20" rx="4" fill="#42cba8"/>
+<rect x="378" y="345" width="23" height="40" rx="4" fill="#42cba8"/>
+<rect x="411" y="267" width="23" height="118" rx="4" fill="#42cba8"/>
+<rect x="444" y="257" width="23" height="128" rx="4" fill="#42cba8"/>
+<rect x="477" y="228" width="23" height="157" rx="4" fill="#42cba8"/>
+<rect x="510" y="302" width="23" height="83" rx="4" fill="#42cba8"/>
+<text x="510" y="410" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#9aa9ba">Oct 22</text>
+<rect x="543" y="253" width="23" height="132" rx="4" fill="#42cba8"/>
+<rect x="576" y="304" width="23" height="81" rx="4" fill="#42cba8"/>
+<rect x="609" y="312" width="23" height="73" rx="4" fill="#42cba8"/>
+<rect x="642" y="259" width="23" height="126" rx="4" fill="#42cba8"/>
+<rect x="675" y="271" width="23" height="114" rx="4" fill="#42cba8"/>
+<rect x="708" y="363" width="23" height="22" rx="4" fill="#42cba8"/>
+<rect x="741" y="366" width="23" height="19" rx="4" fill="#42cba8"/>
+<text x="741" y="410" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#9aa9ba">Oct 29</text>
+<rect x="774" y="318" width="23" height="67" rx="4" fill="#42cba8"/>
+<rect x="807" y="384" width="23" height="1" rx="4" fill="#42cba8"/>
+<rect x="840" y="382" width="23" height="3" rx="2" fill="#26364a"/>
+<rect x="873" y="376" width="23" height="9" rx="4" fill="#42cba8"/>
+<rect x="906" y="382" width="23" height="3" rx="2" fill="#26364a"/>
+<rect x="939" y="382" width="23" height="3" rx="2" fill="#26364a"/>
+<rect x="972" y="382" width="23" height="3" rx="2" fill="#26364a"/>
+<text x="972" y="410" font-size="13" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#9aa9ba">Nov 05</text>
+<rect x="1005" y="382" width="23" height="3" rx="2" fill="#26364a"/>
+<rect x="1038" y="378" width="23" height="7" rx="4" fill="#42cba8"/>
+<line x1="48" y1="228" x2="1064" y2="228" stroke="#243348" stroke-width="1" opacity=".5"/>
+<line x1="48" y1="280" x2="1064" y2="280" stroke="#243348" stroke-width="1" opacity=".5"/>
+<line x1="48" y1="332" x2="1064" y2="332" stroke="#243348" stroke-width="1" opacity=".5"/>
+<line x1="48" y1="385" x2="1064" y2="385" stroke="#243348" stroke-width="1" opacity=".5"/>
+<text x="48" y="453" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#b4c1d1">Includes 3,947 Claude-authored and 319 founder-authored commits</text>
+<text x="48" y="474" font-size="12" font-family="Arial, Helvetica, sans-serif" font-weight="400" fill="#72879a">Aggregated from private Git history • No source code or repository identifiers disclosed</text>
+</svg>
